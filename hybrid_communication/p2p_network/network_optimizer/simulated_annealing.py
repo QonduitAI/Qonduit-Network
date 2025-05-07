@@ -1,5 +1,5 @@
 """
-Advanced Simulated Annealing Engine for XIBRA Network
+Advanced Simulated Annealing Engine for Qonduit Network
 Supports multi-objective optimization, parallel state exploration,
 and adaptive cooling strategies with Boltzmann acceptance criteria
 """
